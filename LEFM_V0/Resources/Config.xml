@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LEFM>
+  <Configuration>
+    <Calibration coeffA="252266,991" coeffB="541,397">21/06/2015 18:38:04</Calibration>
+    <Blessures>
+      <type>Tendinite</type>
+      <type>LCA</type>
+      <type>Fracture</type>
+      <type>Dechirure</type>
+      <type>Entorse</type>
+      <type>dommage</type>
+      <type>totoche</type>
+      <type>titigrosminet</type>
+      <type>enguete</type>
+    </Blessures>
+    <Repertoire>C:\Users\Dalleau\Desktop\LEFM</Repertoire>
+    <Carte InputMin="-10" InputMax="10">Dev1</Carte>06/05/2015 22:10:37</Configuration>
+  <Analyse>
+    <FVcmj ordre_reg="3" nbEssais="3" />
+    <ISO nbEssais="2" />
+    <CMJ nbEssais="2" />
+    <K nbEssais="2" />
+    <RJ nbEssais="1" />
+    <Seuils Fz1="90" Fz2="15" />
+  </Analyse>
+</LEFM>
